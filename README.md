@@ -12,8 +12,6 @@
           <span style="color:#B392F0">@@software engineering & ai enthusiast.@@</span>
           <span style="color:#85E89D">+ gothic subculture lover, fullstack dev.</span>
           <span style="color:#FDAEB7">- machine learning / neural networks explorer.</span>
-          <span style="color:#FFAB70">! coffee-powered, glitch enthusiast.</span>
-          <span style="color:#6A737D"># welcome to my neural network.</span>
         </pre>
       </td>
     </tr>
